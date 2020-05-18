@@ -13,12 +13,12 @@ Example of the JPA and Mysql Database integration
 
 <img  src="accountid.png"/>
 
-<p>Defining the <b>@IdClass(AccountId.class)</b> and the <b>@Id</b> attributes(must be the same as AccountId)</p>
+<p>Defining the Account class, adding <b>@IdClass(AccountId.class)</b> and the <b>@Id</b> attributes(must be the same as AccountId)</p>
 
 <img  src="account.png"/>
 
 <h2>@Embeddable</h2>
-<p>Defining the BookId class and the attributes to be used as composite primary key, the BookId clas is annotated with <b>@Embeddable</b></p>
+<p>Defining the BookId class and the attributes to be used as composite primary key, the BookId class is annotated with <b>@Embeddable</b></p>
 
 <img  src="bookid.png"/>
 
