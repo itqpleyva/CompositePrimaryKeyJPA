@@ -1,5 +1,6 @@
-# JPAMysqlExample
-Example of the JPA and Mysql Database integration
+# CompositePrimaryKey
+
+Example of the creation of a composite primary key using JPA
 
 <p>In this example,we create a composite primary key in two differents ways</p>
 <ul>
