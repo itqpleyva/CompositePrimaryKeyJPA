@@ -10,7 +10,7 @@ public class BookId implements Serializable {
 	private String title;
     private String language;
  
-    // default constructor
+    // default constructor, getters and setters
  
     public BookId(String title, String language) {
         this.title = title;
